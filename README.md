@@ -8,6 +8,6 @@ $ apt install git
 $ apt install php
 $ git clone https://github.com/H0rn3t-Sp1d3rs/Create-Decafe
 $ cd Create-Decafe
-$ php Decafe.php
+$ php Deface.php
 
 ```
