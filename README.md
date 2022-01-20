@@ -1,7 +1,7 @@
 # Create-Decafe
 
 
-<h2>Run Command</h2>
+<b>Run Command</b>
 ```
 $ apt update
 $ apt upgate
